@@ -1,0 +1,6 @@
+PyQt5
+sys
+platform
+ctypes
+sqlite3
+datetime
